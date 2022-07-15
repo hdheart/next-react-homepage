@@ -1,7 +1,4 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+module.exports = {
+  reactStrictMode: true,//true dev模式下会渲染两次
+  swcMinify: true
 }
-
-module.exports = nextConfig
