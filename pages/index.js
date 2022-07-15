@@ -6,7 +6,6 @@ import {
   useColorModeValue,
   Link,
   Button,
-  Text,
   List,
   ListItem,
 } from "@chakra-ui/react";
